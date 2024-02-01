@@ -2,7 +2,7 @@
 
 - 🔭 currently working on becoming a [software developer](https://www.linkedin.com/in/enriquebarclay/)
 - 🪄 learning front-end technologies
-- 💻 transitioning from freelance web development into professional software dev
+- 💻 transitioning from [freelance web development](https://digitalstepps.com/) into professional software dev
 
 **Languages and Tools:**
 
