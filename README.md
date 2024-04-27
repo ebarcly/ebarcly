@@ -6,7 +6,7 @@
 
 **Languages and Tools:**
 
-![Python Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/20px-Python-logo-notext.svg.png)
+![Python Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/25px-Python-logo-notext.svg.png)
 
 **Learning:**
 
