@@ -10,8 +10,8 @@
 
 **Learning:**
 
-![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/20px-JavaScript-logo.png)
+![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/25px-JavaScript-logo.png)
 ![HTML Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/25px-HTML5_logo_and_wordmark.svg.png)
-![CSS Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/19px-CSS3_logo_and_wordmark.svg.png)
+![CSS Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/25px-CSS3_logo_and_wordmark.svg.png)
 ![React Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/25px-React-icon.svg.png)
-![Swift Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Swift_logo.svg/640px-Swift_logo.svg.png)
+![Swift Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Swift_logo.svg/25px-Swift_logo.svg.png)
