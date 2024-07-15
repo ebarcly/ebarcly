@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **iOS Development** to contribute to the iOS Environment with my perspective.
 
-- 🤝 I’m looking to help developers to have **a more business oriented mindset** while working on tech.
+- 🤝 I’m looking to help developers to have a more **business oriented mindset** while working on tech.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
