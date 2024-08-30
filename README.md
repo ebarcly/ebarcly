@@ -1,12 +1,12 @@
 <h1 align="center">Hey there 👋, I'm Enrique Barclay</h1>
 
-### I love blending tech with design and business awareness (no, I'm not a marketer...)
+### I love blending tech with design and business awareness.
 
 - 🔭 I’m transitioning to **Software Development** from a Business background.
 
 - 🌱 I’m currently learning **iOS Development** to contribute to the iOS Environment with my perspective.
 
-- 🤝 I’m looking for a mentor that can help me learn and navigate towards a career in tech.
+- 🤝 I’m looking for mentors that can help me learn and navigate towards a career in tech.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
