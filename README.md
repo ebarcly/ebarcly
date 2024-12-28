@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **iOS Development** to contribute to the iOS Environment with my perspective.
 
-- 🤝 I’m looking for mentors that can help me learn and navigate towards a career in tech.
+- 🤝 I’m looking for **entry-level opportunities** to break into the industry.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
