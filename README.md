@@ -2,11 +2,11 @@
 
 ### I love blending tech with design and business awareness.
 
-- 🔭 I’m transitioning to **Software Development** from a Business background.
+- 🔭 I’m transitioning to **Software Development/Engineering** from a Business background.
 
-- 🌱 I’m currently learning **iOS Development** to contribute to the iOS Environment with my perspective.
+- 🌱 I’m currently learning **iOS Development** since I'm passionate about building and shipping.
 
-- 🤝 I’m looking for **entry-level opportunities** to break into the industry.
+- 🤝 I’m looking for **Entry-level/Junior opportunities** to break into the industry.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
