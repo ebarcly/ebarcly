@@ -1,12 +1,16 @@
 <h1 align="center">Hey there 👋, I'm Enrique Barclay</h1>
 
-### I love blending tech with design and business awareness.
+### Tech, Design, Business and Learning.
 
-- 🔭 I’m transitioning to **Software Development/Engineering** from a Business background.
+- 🔭 I am transitioning to professional **Software Engineering** from a Tech/Business background.
 
-- 🌱 I’m currently learning **iOS Development** since I'm passionate about building and shipping.
+- 🗂️ 3 Years of experience in Web Design with over **30 successful client projects.**
 
-- 🤝 I’m looking for **Entry-level/Junior opportunities** to break into the industry.
+- 🌱 I’m currently learning **ML, iOS Development and Python Web Frameworks** time is relative, indeed.
+
+- 🤝 Looking for **Entry-level/Junior opportunities** to join the tech industry.
+
+- 📊 Selling my web agency for 150K as soon as I land the job.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
