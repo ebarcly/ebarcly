@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Enrique Barclay</h1>
+<h1 align="left">Hey there 👋, I'm Enrique Barclay</h1>
 
 ### Tech, Design, Business and Learning.
 
