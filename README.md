@@ -6,7 +6,7 @@
 
 - 🗂️ 3 Years of experience in Web Design with over **30 successful client projects.**
 
-- 🌱 I’m currently learning **ML, iOS Development and Python Web Frameworks**; time is relative, indeed.
+- 🌱 I’m currently learning **C++.
 
 - 🤝 Looking for **Entry-level/Junior opportunities** to join the tech industry.
 
