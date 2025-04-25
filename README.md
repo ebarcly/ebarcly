@@ -6,7 +6,7 @@
 
 - 🗂️ 3 Years of experience in Web Design with over **30 successful client projects.**
 
-- 🌱 I’m currently learning **C++.
+- 🌱 I’m currently using **C++** and **C#**
 
 - 🤝 Looking for **Entry-level/Junior opportunities** to join the tech industry.
 
