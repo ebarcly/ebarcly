@@ -20,26 +20,6 @@ Beyond coding, I enjoy the process of creating and sharing knowledge, which is w
 
 ---
 
-## Experience Highlights ✨
-
-* **Founding Software Developer @ Digital Stepps** (Oct 2022 - Present)
-    * Built 30+ custom web apps (NodeJS, Firebase) improving performance by 22% on average.
-    * Key contributor to features generating over \$500K in client revenue.
-    * Managed AWS infrastructure and CI/CD pipelines.
-* **Assistant Project Manager @ Menu Factory, S.R.L** (Aug 2018 - Apr 2019)
-    * Developed an internal project tracking web app (Python, Django, FastAPI, Firebase), boosting team productivity by 20%.
-
----
-
-## Featured Projects 📂
-
-* **[MovieMatcher (React Native App)]**(https://github.com/ebarcly/MovieMatchApp): A cross-platform mobile app for movie recommendations using Firebase Authentication/Database and the TMDB API.
-* **[Lottery Scanner App (iOS)]**(https://github.com/ebarcly/LotteryScanner): Native iOS app developed with SwiftUI that scans lottery tickets using the camera and verifies results via RapidAPI.
-* **[Client Web Applications (NodeJS/JS/Firebase)]**(https://digitalstepps.com/): A collection showcasing 30+ custom web apps built for clients, focusing on performance and tailored solutions for e-commerce, booking, and user management.
-* *(Check out my repositories for more projects, including backend and full-stack examples!)*
-
----
-
 ## Currently Learning & Exploring 🧠
 
 * Deepening my understanding of **C++** and **C#**.
