@@ -15,7 +15,7 @@ Beyond coding, I enjoy the process of creating and sharing knowledge, which is w
 * **Frameworks/Libraries:** NodeJS, Flask, React Native, SwiftUI, Cocoa
 * **Databases:** SQL, Firebase (Firestore/RTDB) | *Familiarity:* PostgreSQL, Redis
 * **Cloud/Tools:** AWS (ECS, etc.), Docker, Git, GitHub, Postman, Jira, Xcode, VS Code, Cursor
-* **APIs/Methodologies:** REST, FastAPI, Agile, Scrum | *Basic Understanding:* GraphQL, Microservices
+* **APIs/Methodologies:** REST, FastAPI, Agile, Scrum | *Familiarity:* GraphQL, Microservices
 * **CI/CD:** *Familiarity:* GitHub Actions
 
 ---
@@ -23,10 +23,10 @@ Beyond coding, I enjoy the process of creating and sharing knowledge, which is w
 ## Currently Learning & Exploring 🧠
 
 * Deepening my understanding of **C++** and **C#**.
-* Expanding my **TypeScript** skills for robust backend development.
-* Working towards the **AWS Solutions Architect - Associate** certification (expected Jul 2025).
+* Expanding my **TypeScript** skills
+* Working towards the **AWS Cloud Practitioner** certification.
 * Solving **Leetcode** problems (and sharing on YouTube!).
-* Exploring **Microservices** architecture concepts.
+* Exploring **FullStack** concepts.
 
 ---
 
