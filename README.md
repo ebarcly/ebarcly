@@ -11,7 +11,7 @@ Beyond coding, I enjoy the process of creating and sharing knowledge, which is w
 
 ## Skills 💻
 
-* **Languages:** Python, JavaScript, Swift, HTML/CSS | *Learning:* TypeScript, C++, C#
+* **Languages:** Python, JavaScript/TypeScript, Swift, HTML/CSS | *Learning:* C++, C#
 * **Frameworks/Libraries:** NodeJS, Flask, React Native, SwiftUI, Cocoa
 * **Databases:** SQL, Firebase (Firestore/RTDB) | *Familiarity:* PostgreSQL, Redis
 * **Cloud/Tools:** AWS (ECS, etc.), Docker, Git, GitHub, Postman, Jira, Xcode, VS Code, Cursor
@@ -26,7 +26,7 @@ Beyond coding, I enjoy the process of creating and sharing knowledge, which is w
 * Expanding my **TypeScript** skills
 * Working towards the **AWS Cloud Practitioner** certification.
 * Solving **Leetcode** problems (and sharing on YouTube!).
-* Exploring **FullStack** concepts.
+* Actively bulding projects as a **Full-Stack Developer**.
 
 ---
 
