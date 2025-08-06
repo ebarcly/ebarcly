@@ -24,5 +24,4 @@ jobs:
           SHOW_TIMEZONE: "False"
           SHOW_COMMIT: "False"
           SHOW_LANGUAGE: "True"
-          SHOW_LINES_OF_CODE: "False"
-          LANG_COUNT: "5" # The number of languages to show
+          SHOW_LINES_OF_CODE: "True"
