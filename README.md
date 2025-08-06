@@ -6,9 +6,7 @@
 
 <!--START_SECTION:waka-->
 
-![WakaTime](https://github.com/ebarcly/ebarcly/blob/main/wakatime-stats.svg)
-
-## <!--END_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <h2>My Tech Stack 💻</h2>
 <p>A collection of tools and technologies I use to bring ideas to life.</p>
