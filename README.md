@@ -1,4 +1,4 @@
-# Hi there, I'm Enrique Barclay 👋
+# Hi there, I'm Enrique 👋
 
 [linkedin.com/in/enriquebarclay](https://linkedin.com/in/enriquebarclay) | [digitalstepps.com](https://digitalstepps.com/)
 
@@ -65,6 +65,10 @@
   <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
 </p>
 
+## GitHub Stats 📑
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ebarcly&show_icons=true&theme=react" alt="ebarcly" />
+
+  
 ## Let's Connect 📫
 
 * **LinkedIn:** [linkedin.com/in/enriquebarclay](https://linkedin.com/in/enriquebarclay)
