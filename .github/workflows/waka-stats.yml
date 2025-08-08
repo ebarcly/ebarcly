@@ -20,7 +20,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - uses: anmol098/waka-readme-stats@master
+      - uses: anmol098/waka-readme-stats@v4
         with:
           # Required
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
