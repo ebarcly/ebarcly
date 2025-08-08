@@ -6,8 +6,8 @@
 
 [![Coding_Time](https://wakatime.com/badge/user/18cd2bf1-8b5b-45d2-9abc-e0433ebe93ea.svg)](https://wakatime.com/@18cd2bf1-8b5b-45d2-9abc-e0433ebe93ea)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!--START_SECTION:waka-readme-stats-->
+<!--END_SECTION:waka-readme-stats-->
 
 <h2>My Tech Stack 💻</h2>
 <p>A collection of tools and technologies I use to bring ideas to life.</p>
