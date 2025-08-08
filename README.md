@@ -3,6 +3,7 @@
 [linkedin.com/in/enriquebarclay](https://linkedin.com/in/enriquebarclay) | [digitalstepps.com](https://digitalstepps.com/)
 
 ### 📊 My Weekly Coding Activity
+[![wakatime](https://wakatime.com/badge/github/ebarcly/ebarcly.svg)](https://wakatime.com/badge/github/ebarcly/ebarcly)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
