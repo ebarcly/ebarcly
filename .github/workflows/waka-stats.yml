@@ -4,14 +4,14 @@ on:
   workflow_dispatch: # Allows you to run this workflow manually
   schedule:
     # Runs every 4 hours
-    - cron: "0 */4 * * *"
+    - cron: "0 */6 * * *"
 
 jobs:
   update-readme:
     name: Update Readme with WakaTime Stats
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@v4
+      - uses: anmol098/waka-readme-stats@master
         with:
           # Required
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
