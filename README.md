@@ -1,5 +1,5 @@
 <h1 align="left">Hi there, I'm Enrique Barclay 👋</h1>
-<h3 align="left">A self-taught Full-Stack Developer and co-founder of a web agency, passionate about building beautiful and functional applications.</h3>
+<h3 align="left">A self-taught Full-Stack Developer and co-founder of a web development agency, passionate about building beautiful and functional applications.</h3>
 
 <p align="left">
   <a href="https://linkedin.com/in/enriquebarclay" target="_blank">
