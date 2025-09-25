@@ -25,11 +25,11 @@ I'm a developer with 2.5 years of hands-on experience leading projects for clien
 
 <table width="100%">
   <tr>
-    <td width="40%" valign="top">
+    <td width="50%" valign="top">
       <img src="https://github-readme-stats.vercel.app/api?username=ebarcly&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Enrique's GitHub Stats" />
       <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebarcly&layout=compact&theme=tokyonight&hide_border=true" alt="Enrique's Top Languages" /> -->
     </td>
-    <td width="60%" valign="top">
+    <td width="50%" valign="top">
       <img src="https://wakatime.com/share/@18cd2bf1-8b5b-45d2-9abc-e0433ebe93ea/cda244bb-8699-4463-8038-9f34a683cae9.svg" alt="WakaTime Coding Activity" />
     </td>
   </tr>
