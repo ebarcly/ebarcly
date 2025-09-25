@@ -17,7 +17,7 @@
 
 ### 🚀 About Me
 
-I'm a developer with 2.5 years of hands-on experience leading projects for clients at my web agency, [Digital Stepps](https://digitalstepps.com/). I'm now channeling that experience and my passion for technology into a full-time software engineering role. I thrive on solving complex problems, building projects from the ground up, and continuously learning new technologies.
+I'm a developer with over 3 years of hands-on experience leading projects for clients at my web agency, [Digital Stepps](https://digitalstepps.com/). I'm now channeling that experience and my passion for technology into a full-time software engineering role. I thrive on solving complex problems, building projects from the ground up, and continuously learning new technologies.
 
 ---
 
