@@ -91,10 +91,10 @@ I'm a developer with over 3 years of hands-on experience leading projects for cl
 
 ### 🌱 I'm Currently...
 
-- 🔭 **Building:** A full-stack project management application using Next.js and Supabase.
-- 🌱 **Learning:** More about C++ and C# for performance-critical applications and game development.
-- 📺 **Creating Content:** For my [YouTube channel](https://www.youtube.com/@ebarcly), where I break down LeetCode problems and share my development journey.
-- 🤔 **Exploring:** Opportunities in software development and product management where I can contribute to a passionate team.
+- 🔭 **Building:** A set of full-stack applications using MERN Stack and others.
+- 🌱 **Learning:** More about C# for performance-critical applications.
+- 📺 **Creating Content:** For my [YouTube channel](https://www.youtube.com/@ebarcly), where I break down algorithmic problems and share insights of my development journey.
+- 🤔 **Exploring:** Opportunities in software development where I can contribute to a passionate team.
 
 ---
 
