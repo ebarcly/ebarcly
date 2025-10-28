@@ -1,5 +1,5 @@
 <h1 align="left">Hi there, I'm Enrique Barclay 👋</h1>
-<h3 align="left">A self-taught Full-Stack Developer and co-founder of a web development agency, passionate about building beautiful and functional applications.</h3>
+<h3 align="left">Full-Stack Developer passionate about empowering users.</h3>
 
 <p align="left">
   <a href="https://linkedin.com/in/enriquebarclay" target="_blank">
@@ -12,12 +12,6 @@
     <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
 </p>
-
----
-
-### 🚀 About Me
-
-I'm a developer with over 3 years of hands-on experience leading projects for clients at my web agency, [Digital Stepps](https://digitalstepps.com/). I'm now channeling that experience and my passion for technology into a full-time software engineering role. I thrive on solving complex problems, building projects from the ground up, and continuously learning new technologies.
 
 ---
 
