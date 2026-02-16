@@ -44,11 +44,16 @@ Mostly TypeScript, sometimes Python, occasionally Swift.
 
 #### `~/stats`
 
-<img src="https://github-readme-stats.vercel.app/api?username=ebarcly&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+<a href="https://github.com/ebarcly">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ebarcly&theme=github_dark" alt="Profile Details" />
+</a>
+
+<a href="https://github.com/ebarcly">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ebarcly&theme=github_dark" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ebarcly&theme=github_dark" alt="Most Used Languages" />
+</a>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=ebarcly&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebarcly&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 
 ---
 
