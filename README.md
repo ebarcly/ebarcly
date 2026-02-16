@@ -19,10 +19,6 @@
 
 <table width="100%">
   <tr>
-    <td width="40%" valign="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=ebarcly&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Enrique's GitHub Stats" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebarcly&layout=compact&theme=tokyonight&hide_border=true" alt="Enrique's Top Languages" />
-    </td>
     <td width="60%" valign="top">
       <img src="https://wakatime.com/share/@18cd2bf1-8b5b-45d2-9abc-e0433ebe93ea/cda244bb-8699-4463-8038-9f34a683cae9.svg" alt="WakaTime Coding Activity" />
     </td>
@@ -85,10 +81,7 @@
 
 ### 🌱 I'm Currently...
 
-- 🔭 **Building:** A set of full-stack applications using MERN Stack and others.
-- 🌱 **Learning:** More about C# for performance-critical applications.
-- 📺 **Creating Content:** For my [YouTube channel](https://www.youtube.com/@ebarcly), where I break down algorithmic problems and share insights of my development journey.
-- 🤔 **Exploring:** Opportunities in software development where I can contribute to a passionate team.
+- 🔭 **Building:** ...
 
 ---
 
