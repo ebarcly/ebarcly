@@ -1,102 +1,32 @@
-<h1 align="left">Hi there, I'm Enrique Barclay 👋</h1>
-<h3 align="left">Full-Stack Developer passionate about empowering users.</h3>
+```
+> enrique barclay
+> full-stack developer
+```
 
-<p align="left">
-  <a href="https://linkedin.com/in/enriquebarclay" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://digitalstepps.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://www.youtube.com/@ebarcly" target="_blank">
-    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
-</p>
+I build things for the web — sometimes for mobile too.
+Mostly TypeScript, sometimes Python, occasionally Swift.
 
----
-
-### 📊 My GitHub Stats & Coding Activity
-
-<table width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <img src="https://wakatime.com/share/@18cd2bf1-8b5b-45d2-9abc-e0433ebe93ea/cda244bb-8699-4463-8038-9f34a683cae9.svg" alt="WakaTime Coding Activity" />
-    </td>
-  </tr>
-</table>
+```ts
+const enrique = {
+  stack: ["React", "Next.js", "Node.js", "PostgreSQL", "Supabase", "AWS"],
+  learning: ["C++", "Rust"],
+  tools: ["Docker", "GitHub Actions", "Tailwind"],
+} as const;
+```
 
 ---
 
-### 💻 My Tech Stack
+#### `~/stats`
 
-<p align="left">A collection of tools and technologies I use to bring ideas to life.</p>
+<!--START_SECTION:waka-readme-stats-->
+<!--END_SECTION:waka-readme-stats-->
 
-<table width="100%">
-  <tr>
-    <td align="left">
-      <strong>Languages & Core Tech</strong><br>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-      <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-    </td>
-  </tr>
-  <tr>
-    <td align="left">
-      <strong>Frontend Development</strong><br>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-      <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-      <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" />
-    </td>
-  </tr>
-  <tr>
-    <td align="left">
-      <strong>Backend & Databases</strong><br>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-      <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-    </td>
-  </tr>
-  <tr>
-    <td align="left">
-      <strong>Cloud, DevOps & Tools</strong><br>
-      <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-    </td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ebarcly&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&ring_color=58a6ff&text_color=c9d1d9&icon_color=8b949e" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ebarcly&show_icons=true&theme=default&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ebarcly&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" />
+</picture>
 
 ---
 
-### 🌱 I'm Currently...
-
-- 🔭 **Building:** ...
-
----
-
-### 📫 Let's Connect!
-
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of an amazing team. Feel free to reach out!
-
-<p align="left">
-  <a href="https://linkedin.com/in/enriquebarclay" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://digitalstepps.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://www.youtube.com/@ebarcly" target="_blank">
-    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
-</p>
+<sub>[digitalstepps.com](https://digitalstepps.com) · [linkedin](https://linkedin.com/in/enriquebarclay) · [youtube](https://youtube.com/@ebarcly)</sub>
