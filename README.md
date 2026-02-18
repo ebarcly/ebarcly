@@ -4,8 +4,9 @@
 Mostly **TypeScript**, sometimes **Python**, occasionally **Swift**.
 ```
 
-I build things for the web, sometimes for mobile too.
-Mostly **TypeScript**, sometimes **Python**, occasionally **Swift**.
+```
+> C:\Users\enriquebarclay> cd stack/languages
+```
 
 ---
 
@@ -43,6 +44,10 @@ Mostly **TypeScript**, sometimes **Python**, occasionally **Swift**.
 
 ---
 
+```
+> C:\Users\enriquebarclay> cd stats/dashboard
+```
+
 #### `~/stats`
 
 <a href="https://github.com/ebarcly">
@@ -57,5 +62,9 @@ Mostly **TypeScript**, sometimes **Python**, occasionally **Swift**.
 <img src="https://github-readme-streak-stats.herokuapp.com?user=ebarcly&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak" />
 
 ---
+
+```
+> C:\Users\enriquebarclay> cd connect
+```
 
 <sub>[digitalstepps.com](https://digitalstepps.com) · [linkedin](https://linkedin.com/in/enriquebarclay) · [youtube](https://youtube.com/@ebarcly)</sub>
