@@ -1,6 +1,7 @@
 ```
-> enrique barclay
 > full-stack developer
+> I build things for the web, sometimes for mobile too.
+Mostly **TypeScript**, sometimes **Python**, occasionally **Swift**.
 ```
 
 I build things for the web, sometimes for mobile too.
