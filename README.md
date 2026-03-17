@@ -11,7 +11,7 @@ ebarcly@github:~$ cat info.json
 ```json
 {
   "profession": "Full-Stack Developer",
-  "working on": "Digital Stepps",
+  "working on": "Digital Stepps" "Epale",
   "focus": ["Web Ecosystem", "Mobile Development", "LLM'S"],
   "currently_learning": ["C++"]
 }
